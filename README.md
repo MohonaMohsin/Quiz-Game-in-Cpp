@@ -1,5 +1,5 @@
 
-# Quiz Game in C+
+# Quiz Game in C++
 
 This C++ application provides an interactive quiz experience through a simple, menu-driven interface.  
 It allows users to take quizzes, track their scores, and manage player data efficiently.
